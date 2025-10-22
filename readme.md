@@ -33,12 +33,15 @@ The course focuses on implementing machine learning algorithms on resource-const
 
 ---
 
-### Required Software
+## ⚙️ Required Software
+
 - **Python = 3.11.14**
 - **Numpy = 1.25.2**
 - **PyTorch = 2.7.1**
 - **torchvision = 0.23.0**
 - **CUDA = TBD**
+
+---
 
 ## ✅ Assignment Progress
 
@@ -60,4 +63,3 @@ The course focuses on implementing machine learning algorithms on resource-const
 
 This project is released under the **MIT License**.  
 Feel free to use, modify and contribute.
-
