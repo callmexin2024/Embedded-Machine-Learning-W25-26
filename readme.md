@@ -41,6 +41,25 @@ The course focuses on implementing machine learning algorithms on resource-const
 - **torchvision = 0.23.0**
 - **CUDA = TBD**
 
+## 🚀 Environment Setup
+
+This project uses **Conda** to manage the development environment for better reproducibility and compatibility.
+
+Make sure you have **Anaconda** or **Miniconda** installed. You can use this command to check:
+
+```bash
+conda -V
+```
+
+
+Then run:
+
+```bash
+conda env create -f environment.yml
+
+conda activate embedded-ml
+```
+
 ---
 
 ## ✅ Assignment Progress
